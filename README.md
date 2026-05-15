@@ -1,4 +1,4 @@
-<div style = "text-align: center">
+<div align="center">
  <h1>Md. Sohan</h1>
  <h3>Aspiring Cyber Professional | AI Engineer</h3>
 </div>
@@ -116,5 +116,5 @@ I'm currently learning **Vanilla JavaScript** & **PyTorch** — building, breaki
 ---
 
 
-<div style = "text-align: center"><b>Building in public. Learning in motion. Chasing the next clean commit.</b></div>
+<div align="center"><b>Building in public. Learning in motion. Chasing the next clean commit.</b></div>
 
