@@ -9,7 +9,9 @@
 
 ## 🌙 About Me
 
-I'm currently learning **Vanilla JavaScript** & **PyTorch** — building, breaking, fixing, and documenting the journey. Looking to network and showcase work. 2026 Goal: contribute more to open source and build a stronger portfolio.
+I'm currently doing **Professor Messer's security+ course** & learning **PyTorch** — building, breaking, fixing, and documenting the journey.
+Looking to network and showcase work. 
+2026 Goal: contribute more to open source and build a stronger portfolio.
 
 **Interests:** AI · Computer Networking · Cybersecurity · Gadgets · Programming · Historical & Wildlife Docs · Cats
 
@@ -102,7 +104,7 @@ I'm currently learning **Vanilla JavaScript** & **PyTorch** — building, breaki
 
 <div align="center">
 
-<a href="https://facebook.com/ashraful.sohan.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/ashrafulsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/sohan_37"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<a href="https://facebook.com/ashraful.sohan.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/pencilic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/sohan_37"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 
 </div>
 
