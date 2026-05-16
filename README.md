@@ -3,15 +3,15 @@
  <h3>Aspiring Cyber Professional | AI Engineer</h3>
 </div>
 
- <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Vanilla+JavaScript+%26+PyTorch;Building+with+code%2C+curiosity%2C+and+controlled+chaos;2026+Goal%3A+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=pencilic&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/pencilic?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/pencilic?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
+ <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Security%2B+Concepts+%26+PyTorch;Building+with+code%2C+curiosity%2C+and+controlled+chaos;2026+Goal%3A+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=pencilic&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/pencilic?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/pencilic?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
 
 ---
 
 ## 🌙 About Me
 
-I'm currently doing **Professor Messer's security+ course** & learning **PyTorch** — building, breaking, fixing, and documenting the journey.
-Looking to network and showcase work. 
-2026 Goal: contribute more to open source and build a stronger portfolio.
+I'm currently doing **Professor Messer's Security+ course** & learning **PyTorch** — building, breaking, fixing, and documenting the journey. <br/>
+Looking to network and showcase work. <br/>
+2026 Goal: contribute more to open source and build a stronger portfolio. <br/>
 
 **Interests:** AI · Computer Networking · Cybersecurity · Gadgets · Programming · Historical & Wildlife Docs · Cats
 
@@ -104,7 +104,7 @@ Looking to network and showcase work.
 
 <div align="center">
 
-<a href="https://facebook.com/ashraful.sohan.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/pencilic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/sohan_37"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<a href="https://facebook.com/pencilic"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/pencilic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/pencilic_37"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 
 </div>
 
